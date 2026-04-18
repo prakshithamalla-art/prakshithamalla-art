@@ -1,63 +1,37 @@
 # 👋 Hi, I'm Prakshitha Malla
 
-[![GitHub followers](https://img.shields.io/github/followers/prakshithamalla-art?label=Follow&style=social)](https://github.com/prakshithamalla-art)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/prakshitha-malla-27689b388/)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:prakshithamalla@gmail.com)
-
----
-
 ## 🚀 About Me
+- 🎓 First-year CSE student at KL University
+- 💻 Learning Java, DSA, and Web Development
+- 🌱 Currently building my first project (Expense Tracker)
+- 🚀 **GSSoC 2026** — Ambassador & Contributor (Open Source Track)
+- 🏆 Selected for Smart India Hackathon 2026 (Round 1)
+- 📜 Cisco certified in HTML, CSS, and JavaScript
 
-I'm a **first-year CSE student** at KL University, passionate about building things that actually work. I don't just learn for exams — I learn to create.
+## 💼 Experience
 
-- 🎯 **Currently:** Learning DSA in Java & building my first web project
-- 🔭 **Working on:** Expense Tracker (HTML, CSS, JS, LocalStorage)
-- 🏆 **Achievements:** Selected for Smart India Hackathon 2026 (Round 1)
-- 📜 **Certifications:** Cisco (HTML, CSS, JavaScript Essentials)
-- 🧠 **Problems solved:** 150+ DSA problems on CodeChef
-- 🌱 **Learning:** Open source, Git workflows, Web Dev
+**GSSoC Ambassador & Contributor** | GirlScript Summer of Code  
+*April 2026 - Present*
+- Represent GSSoC at KL University
+- Contribute to open source projects
+- Help peers start their open source journey
 
----
+**ACM Member** | KLH Bachupally  
+*2025 - Present*
+- Active member of the ACM student chapter
+- Participate in tech discussions and coding sessions
 
 ## 🛠 Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS
+- **Tools:** Git, GitHub, VS Code
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java, JavaScript, HTML, CSS |
-| **Tools** | Git, GitHub, VS Code |
-| **Learning** | DSA, Web Development, Open Source |
+## 🎉 Achievements
+- 🚀 GSSoC 2026 — Ambassador & Contributor
+- 🏆 Smart India Hackathon 2026 — Round 1
+- 📜 Cisco Certified (HTML, CSS, JS)
+- ⭐ CodeChef 2★ (1403)
 
----
-## 🏆 My Journey So Far
 
-| What | Status |
-|------|--------|
-| GSSoC 2026 Application | ✅ Applied (Ambassador + Contributor) |
-| Smart India Hackathon 2026 | ✅ Round 1 Selected |
-| Cisco Certifications | ✅ Completed (HTML, CSS, JS) |
-| CodeChef Rating | ⭐ 2★ (1403) |
-
----
-
-## 📫 Let's Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/prakshitha-malla-27689b388/)
-- 📧 [Email](mailto:prakshithamalla@gmail.com)
-- 🐙 [GitHub](https://github.com/prakshithamalla-art)
-
----
-
-## 🎯 What I'm Aiming For
-
-- ✅ Contribute to open source through **GSSoC 2026**
-- ✅ Build **real-world projects** that solve problems
-- ✅ Get a **campus ambassador role** and help others learn
-- ✅ Keep growing, keep building, keep showing up
-
----
-
-> *"Consistency over perfection — showing up every day, even when things feel chaotic."*
-
----
-
-⭐ **If you like what I'm building, drop a follow or connect with me!**
+## 📫 Connect
+- [LinkedIn](https://www.linkedin.com/in/prakshitha-malla-27689b388/)
+- [Email](prakshithamalla@gmail.com)
